@@ -1,0 +1,10 @@
+name: JoshsFirstPlugin
+version: 0.3.1
+main: group.thebasement.josh.Myfirstplugin
+commands:
+  disable:
+    description: turns off plugin
+    usage: /disable
+  test:
+    description: changes every patch or so, used for testing crap
+    usage: /test
